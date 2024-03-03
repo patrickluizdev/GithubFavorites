@@ -31,7 +31,7 @@ To run the Github Favorites app locally, follow these steps:
 
 2. Navigate to the project directory:
    ```
-   cd github-favorites-app
+   cd GithubFavorites
    ```
 
 3. Open the `index.html` file in your preferred web browser.
